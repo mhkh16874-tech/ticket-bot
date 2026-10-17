@@ -1,0 +1,15 @@
+{
+  "supportRoleId": "SUPPORT_ROLE_ID",
+  "transcriptChannelId": "TRANSCRIPT_CHANNEL_ID",
+  "categories": {
+    "دعم فني": "CATEGORY_ID_SUPPORT",
+    "شكاوى": "CATEGORY_ID_COMPLAINTS",
+    "اقتراحات": "CATEGORY_ID_SUGGESTIONS",
+    "عام": "CATEGORY_ID_GENERAL"
+  },
+  "defaultCategoryId": "DEFAULT_CATEGORY_ID",
+  "maxTicketsPerUser": 2,
+  "deleteChannelAfterCloseSeconds": 10,
+  "panelChannelId": "PANEL_CHANNEL_ID",
+  "panelMessageId": ""
+}
